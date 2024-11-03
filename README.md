@@ -8,9 +8,9 @@ The New York City Taxi and Limousine Commission (TLC) is facing challenges in op
 
 ### Project Goals:
 
-    1.Develop an automated machine learning (AutoML) model to predict taxi fares based on various factors such as pickup and dropoff locations, trip distance, time of day, etc.
-    2.Create an infographic that visually represents the key insights and trends from the dataset.
-    3.Answer various business questions using SQL queries on the dataset to provide specific insights into the operations and business of TLC.
+1.Develop an automated machine learning (AutoML) model to predict taxi fares based on various factors such as pickup and dropoff locations, trip distance, time of day, etc.
+2.Create an infographic that visually represents the key insights and trends from the dataset.
+3.Answer various business questions using SQL queries on the dataset to provide specific insights into the operations and business of TLC.
 
 ### Deliverables:
 
@@ -50,8 +50,9 @@ Central New York is the largest share of our services, with a high demand for ta
 
 Our analysis reveals that:
 
-    1. 70.8% of the total amount was paid through credit card payment method.
-    2. 21% of the total amount is in dispute, indicating a significant number of passengers are contesting their fares.
+    1. 70.8% of total tolls amount  was paid through credit card payment method and 28.78% was paid by Cash.
+    2. 30.76% of the total amount was paid through credit card and 23.59% was paid through Cash.
+    3. 21% of the total amount is in dispute, indicating a significant number of passengers are contesting their fares.
 
 
 ![Infographic](https://github.com/Sherwin-14/NYC_Taxi_Analysis/blob/master/Model/insight-2.png)
